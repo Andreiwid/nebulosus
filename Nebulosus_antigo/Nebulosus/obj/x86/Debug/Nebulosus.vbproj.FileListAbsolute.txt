@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\bin\Debug\Nebulosus.exe.config
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\bin\Debug\Nebulosus.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\bin\Debug\Nebulosus.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\bin\Debug\Nebulosus.xml
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.frmDefuzzy.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.frmPrincipal.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.frmRegras.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.frmVariaveis.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.Resources.resources
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.exe
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.xml
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.pdb
+C:\Documents and Settings\Administrador\Meus documentos\Visual Studio 2010\Projects\Nebulosus\Nebulosus\obj\x86\Debug\Nebulosus.frmAnaliseGrafAgreg.resources

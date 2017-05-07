@@ -1,2 +1,2 @@
 # nebulosus
-Sistema de Lógica Nebulosa Baseado em Regras
+An open fuzzy-based system to measure interoperability level of government agencies
